@@ -1,0 +1,5 @@
+.idea
+.idea/*
+pkg
+bin
+src/ShortenerService/vendor
